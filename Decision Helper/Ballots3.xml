@@ -1,0 +1,147 @@
+<ballots>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">C</vote>
+        <vote rank="2">D</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">A</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">C</vote>
+        <vote rank="2">B</vote>
+        <vote rank="3">D</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">B</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">A</vote>
+        <vote rank="2">D</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">C</vote>
+        <vote rank="2">B</vote>
+        <vote rank="3">D</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">B</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="3">B</vote>
+        <vote rank="2">C</vote>
+        <vote rank="1">D</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">C</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">B</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">B</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">C</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">B</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">A</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">B</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">B</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">A</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">A</vote>
+        <vote rank="2">B</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+    <ballot>
+        <vote rank="2">A</vote>
+        <vote rank="1">D</vote>
+        <vote rank="3">C</vote>
+    </ballot>
+    <ballot>
+        <vote rank="1">D</vote>
+        <vote rank="2">C</vote>
+        <vote rank="3">B</vote>
+    </ballot>
+</ballots>
